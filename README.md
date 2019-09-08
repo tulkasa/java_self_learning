@@ -1,2 +1,53 @@
 # java_self_learning
 The task code will be displayed in this folder.
+Выгрузил задачки с диска на  Git. Оформлю в нормальном виде как продйу все задачки.
+JavaAbstractClass	JavaMethodOverriding2 Solution	
+JavaAnagrams	JavaHashset Solution	
+JavaArraylist	JavaHashset Solution	
+JavaBigDecimal	JavaHashset Solution
+JavaBigInteger	JavaHashset Solution
+JavaComparator	JavaMethodOverriding2 Solution	
+JavaCurrencyFormatter	JavaHashset Solution	
+JavaDatatypes	JavaHashset Solution	
+JavaDateAndTime	JavaHashset Solution	
+JavaEndOfFile	JavaHashset Solution	
+JavaExceptionHandling	JavaExceptionHandling Solution	
+JavaExceptionHandling2	JavaExceptionHandling Solution	
+JavaGenerics	JavaMethodOverriding2 Solution	
+JavaHashset	JavaHashset Solution	
+JavaHashsetI	JavaHashset Solution	
+JavaIDArray	JavaHashset Solution	
+JavaIDArrayPart2	JavaHashset Solution	
+JavaIIDArray	JavaHashset Solution	
+JavaIfElse	JavaIfElse solution	
+JavaInheritanceI	JavaMethodOverriding2 Solution	
+JavaInheritanceII	JavaMethodOverriding2 Solution	
+JavaInstfKey	JavaExceptionHandling Solution	
+JavaIntToString	JavaHashset Solution	
+JavaInterface	JavaMethodOverriding2 Solution	
+JavaList	JavaHashset Solution	
+JavaLoopsI	JavaLoopsI Solution
+JavaLoopsII	JavaLoopsII Solution	
+JavaMap	JavaHashset Solution	
+JavaMethodOverriding	JavaMethodOverriding2 Solution	
+JavaMethodOverriding2	JavaMethodOverriding2 Solution	
+JavaOutputFormatting	JavaOutFormat solution	
+JavaPrimalityTest	JavaHashset Solution	
+JavaRegex	JavaHashset Solution	
+JavaRegexII	JavaHashset Solution	
+JavaStack	JavaHashset Solution	
+JavaStaticIniBlock	JavaHashset Solution	
+JavaStdinAndStdoutPartI	Java Stdin and Stdout I solution	
+JavaStdinAndStdoutPartII	JavaStdinAndStdoutPartII solution	
+JavaStringReverse	JavaHashset Solution	
+JavaStringTokens	JavaHashset Solution	
+JavaStringsIntroduction	JavaStringsIntroduction Solution	
+JavaSubarray	JavaHashset Solution	
+JavaSubstring	JavaHashset Solution	
+JavaSubstringComparisons	JavaHashset Solution	
+SolveMeFirst	SubstringDiff Solution	
+StringConstruction	SubstringDiff Solution	
+SubstringDiff	SubstringDiff Solution	
+TagContentExtractor	JavaHashset Solution	
+ValidUsRegExpr	JavaHashset Solution	
+WelcomeToJava	WelcomeToJava solution	
