@@ -53,4 +53,3 @@ class DoNotTerminate {
         System.setSecurityManager(securityManager);
     }
 }
-}
