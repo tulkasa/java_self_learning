@@ -12,7 +12,6 @@ public class JavaStringReverse {
         Scanner sc=new Scanner(System.in);
         String A=sc.next();
         /* Enter your code here. Print output to STDOUT. */
-        //java.lang.StringBuffer.reverse(A);
         String B = "";
         int n = A.length();
         for(int i = n - 1; i >= 0; i--)
